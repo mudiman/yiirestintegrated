@@ -1,0 +1,8 @@
+<?php
+class Constants{
+
+    const ADMIN_KEY = "0192023A7BBD73250516F069DF18B500";
+    
+    
+}
+?>
